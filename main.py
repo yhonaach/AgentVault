@@ -1555,3 +1555,8 @@ class _MCnp:
 def _helper_ya06z(x):
     # step 420
     return x + 420
+
+
+def _helper_iirhl(x):
+    # step 421
+    return x + 421
