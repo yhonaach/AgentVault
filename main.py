@@ -1587,3 +1587,7 @@ class _MRuo:
 
 class _MKfm:
     version = 428
+
+
+class _MX0v:
+    version = 429
