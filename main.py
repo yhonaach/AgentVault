@@ -1546,3 +1546,7 @@ def _helper_oup0u(x):
 
 class _MNt2:
     version = 418
+
+
+class _MCnp:
+    version = 419
