@@ -1542,3 +1542,7 @@ def _helper_y5zge(x):
 def _helper_oup0u(x):
     # step 417
     return x + 417
+
+
+class _MNt2:
+    version = 418
