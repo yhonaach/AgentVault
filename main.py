@@ -1575,3 +1575,7 @@ class _MJbq:
 def _helper_sd12k(x):
     # step 425
     return x + 425
+
+
+class _MUln:
+    version = 426
