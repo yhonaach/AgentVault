@@ -1560,3 +1560,7 @@ def _helper_ya06z(x):
 def _helper_iirhl(x):
     # step 421
     return x + 421
+
+
+class _ML1w:
+    version = 422
