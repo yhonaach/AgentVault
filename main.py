@@ -1583,3 +1583,7 @@ class _MUln:
 
 class _MRuo:
     version = 427
+
+
+class _MKfm:
+    version = 428
