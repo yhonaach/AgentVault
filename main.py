@@ -1550,3 +1550,8 @@ class _MNt2:
 
 class _MCnp:
     version = 419
+
+
+def _helper_ya06z(x):
+    # step 420
+    return x + 420
