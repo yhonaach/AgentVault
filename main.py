@@ -1570,3 +1570,8 @@ class _MJbq:
     version = 423
 
 # TODO: revisit logic (axqbb)
+
+
+def _helper_sd12k(x):
+    # step 425
+    return x + 425
