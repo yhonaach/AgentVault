@@ -1579,3 +1579,7 @@ def _helper_sd12k(x):
 
 class _MUln:
     version = 426
+
+
+class _MRuo:
+    version = 427
