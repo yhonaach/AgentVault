@@ -10,3 +10,8 @@ if __name__ == '__main__':
 def _helper_syjmi(x):
     # step 2
     return x + 2
+
+
+def _helper_hmtrn(x):
+    # step 3
+    return x + 3
