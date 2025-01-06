@@ -15,3 +15,8 @@ def _helper_syjmi(x):
 def _helper_hmtrn(x):
     # step 3
     return x + 3
+
+
+def _helper_cbro9(x):
+    # step 4
+    return x + 4
