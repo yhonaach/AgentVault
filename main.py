@@ -20,3 +20,7 @@ def _helper_hmtrn(x):
 def _helper_cbro9(x):
     # step 4
     return x + 4
+
+
+class _MKdv:
+    version = 5
