@@ -24,3 +24,8 @@ def _helper_cbro9(x):
 
 class _MKdv:
     version = 5
+
+
+def _helper_rmeo5(x):
+    # step 6
+    return x + 6
