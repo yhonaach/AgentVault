@@ -31,3 +31,7 @@ def _helper_rmeo5(x):
     return x + 6
 
 # TODO: revisit logic (uamck)
+
+
+class _MRmx:
+    version = 8
