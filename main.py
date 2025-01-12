@@ -35,3 +35,8 @@ def _helper_rmeo5(x):
 
 class _MRmx:
     version = 8
+
+
+def _helper_7s44c(x):
+    # step 9
+    return x + 9
