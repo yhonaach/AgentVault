@@ -44,3 +44,8 @@ def _helper_7s44c(x):
 # TODO: revisit logic (qud11)
 
 # TODO: revisit logic (y5pxy)
+
+
+def _helper_scaju(x):
+    # step 12
+    return x + 12
