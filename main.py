@@ -51,3 +51,7 @@ def _helper_scaju(x):
     return x + 12
 
 # TODO: revisit logic (hyxeu)
+
+
+class _MRhz:
+    version = 14
