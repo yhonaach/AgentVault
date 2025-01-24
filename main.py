@@ -57,3 +57,8 @@ class _MRhz:
     version = 14
 
 # TODO: revisit logic (yai6l)
+
+
+def _helper_ccdos(x):
+    # step 16
+    return x + 16
