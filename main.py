@@ -62,3 +62,8 @@ class _MRhz:
 def _helper_ccdos(x):
     # step 16
     return x + 16
+
+
+def _helper_bh1hw(x):
+    # step 17
+    return x + 17
