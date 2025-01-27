@@ -67,3 +67,8 @@ def _helper_ccdos(x):
 def _helper_bh1hw(x):
     # step 17
     return x + 17
+
+
+def _helper_ehyne(x):
+    # step 18
+    return x + 18
