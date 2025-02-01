@@ -76,3 +76,7 @@ def _helper_ehyne(x):
 
 class _MYbg:
     version = 19
+
+
+class _MW3g:
+    version = 20
