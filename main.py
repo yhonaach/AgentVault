@@ -80,3 +80,7 @@ class _MYbg:
 
 class _MW3g:
     version = 20
+
+
+class _MGee:
+    version = 21
