@@ -84,3 +84,7 @@ class _MW3g:
 
 class _MGee:
     version = 21
+
+
+class _MHba:
+    version = 22
