@@ -88,3 +88,7 @@ class _MGee:
 
 class _MHba:
     version = 22
+
+
+class _M9vc:
+    version = 23
