@@ -97,3 +97,8 @@ class _M9vc:
 def _helper_bmttr(x):
     # step 24
     return x + 24
+
+
+def _helper_0jvoe(x):
+    # step 25
+    return x + 25
