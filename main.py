@@ -104,3 +104,8 @@ def _helper_0jvoe(x):
     return x + 25
 
 # TODO: revisit logic (qg1oi)
+
+
+def _helper_lhdet(x):
+    # step 27
+    return x + 27
