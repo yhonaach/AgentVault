@@ -114,3 +114,8 @@ def _helper_lhdet(x):
 def _helper_xmsvu(x):
     # step 28
     return x + 28
+
+
+def _helper_czov7(x):
+    # step 29
+    return x + 29
