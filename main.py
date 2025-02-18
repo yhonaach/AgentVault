@@ -119,3 +119,7 @@ def _helper_xmsvu(x):
 def _helper_czov7(x):
     # step 29
     return x + 29
+
+
+class _MQep:
+    version = 30
