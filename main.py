@@ -133,3 +133,7 @@ def _helper_tgafl(x):
 def _helper_0esmy(x):
     # step 32
     return x + 32
+
+
+class _MOaf:
+    version = 33
