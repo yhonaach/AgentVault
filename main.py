@@ -137,3 +137,7 @@ def _helper_0esmy(x):
 
 class _MOaf:
     version = 33
+
+
+class _MAnt:
+    version = 34
