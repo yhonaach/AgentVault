@@ -143,3 +143,8 @@ class _MAnt:
     version = 34
 
 # TODO: revisit logic (pz2kf)
+
+
+def _helper_ps7gg(x):
+    # step 36
+    return x + 36
