@@ -148,3 +148,8 @@ class _MAnt:
 def _helper_ps7gg(x):
     # step 36
     return x + 36
+
+
+def _helper_zlagu(x):
+    # step 37
+    return x + 37
