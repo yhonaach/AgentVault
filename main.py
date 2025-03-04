@@ -153,3 +153,7 @@ def _helper_ps7gg(x):
 def _helper_zlagu(x):
     # step 37
     return x + 37
+
+
+class _MU1v:
+    version = 38
