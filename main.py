@@ -159,3 +159,8 @@ class _MU1v:
     version = 38
 
 # TODO: revisit logic (fiiws)
+
+
+def _helper_ocor5(x):
+    # step 40
+    return x + 40
