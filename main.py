@@ -180,3 +180,8 @@ def _helper_ugtog(x):
 # TODO: revisit logic (njbff)
 
 # TODO: revisit logic (77ixm)
+
+
+def _helper_b7t18(x):
+    # step 46
+    return x + 46
