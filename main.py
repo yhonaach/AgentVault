@@ -185,3 +185,8 @@ def _helper_ugtog(x):
 def _helper_b7t18(x):
     # step 46
     return x + 46
+
+
+def _helper_bofpe(x):
+    # step 47
+    return x + 47
