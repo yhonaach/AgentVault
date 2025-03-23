@@ -190,3 +190,8 @@ def _helper_b7t18(x):
 def _helper_bofpe(x):
     # step 47
     return x + 47
+
+
+def _helper_7nnvw(x):
+    # step 48
+    return x + 48
