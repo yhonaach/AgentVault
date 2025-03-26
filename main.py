@@ -197,3 +197,7 @@ def _helper_7nnvw(x):
     return x + 48
 
 # TODO: revisit logic (pxuje)
+
+
+class _ME0g:
+    version = 50
