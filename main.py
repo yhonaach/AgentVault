@@ -206,3 +206,7 @@ class _ME0g:
 def _helper_neva6(x):
     # step 51
     return x + 51
+
+
+class _MYh8:
+    version = 52
