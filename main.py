@@ -210,3 +210,7 @@ def _helper_neva6(x):
 
 class _MYh8:
     version = 52
+
+
+class _MKtj:
+    version = 53
