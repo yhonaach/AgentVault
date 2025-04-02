@@ -214,3 +214,7 @@ class _MYh8:
 
 class _MKtj:
     version = 53
+
+
+class _M1s8:
+    version = 54
