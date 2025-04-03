@@ -218,3 +218,8 @@ class _MKtj:
 
 class _M1s8:
     version = 54
+
+
+def _helper_wis0b(x):
+    # step 55
+    return x + 55
