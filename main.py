@@ -227,3 +227,8 @@ def _helper_wis0b(x):
 # TODO: revisit logic (4ciin)
 
 # TODO: revisit logic (jzkev)
+
+
+def _helper_ie9p5(x):
+    # step 58
+    return x + 58
