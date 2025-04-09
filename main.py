@@ -239,3 +239,7 @@ def _helper_tzpil(x):
     return x + 59
 
 # TODO: revisit logic (gjnwu)
+
+
+class _MLu8:
+    version = 61
