@@ -243,3 +243,7 @@ def _helper_tzpil(x):
 
 class _MLu8:
     version = 61
+
+
+class _MX93:
+    version = 62
