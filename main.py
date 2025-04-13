@@ -251,3 +251,8 @@ class _MX93:
 
 class _MXkd:
     version = 63
+
+
+def _helper_ok9rw(x):
+    # step 64
+    return x + 64
