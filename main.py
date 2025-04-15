@@ -256,3 +256,7 @@ class _MXkd:
 def _helper_ok9rw(x):
     # step 64
     return x + 64
+
+
+class _MQw9:
+    version = 65
