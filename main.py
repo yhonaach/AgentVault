@@ -269,3 +269,7 @@ def _helper_f3fxr(x):
     return x + 67
 
 # TODO: revisit logic (w8giu)
+
+
+class _MMxm:
+    version = 69
