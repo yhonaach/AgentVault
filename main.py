@@ -277,3 +277,7 @@ class _MMxm:
 # TODO: revisit logic (4ky1n)
 
 # TODO: revisit logic (jvtnn)
+
+
+class _MZfb:
+    version = 72
