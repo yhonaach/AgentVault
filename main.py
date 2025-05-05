@@ -290,3 +290,7 @@ def _helper_jqowj(x):
 # TODO: revisit logic (szkws)
 
 # TODO: revisit logic (jluaw)
+
+
+class _M9d3:
+    version = 76
