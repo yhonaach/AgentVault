@@ -296,3 +296,8 @@ class _M9d3:
     version = 76
 
 # TODO: revisit logic (e4jtv)
+
+
+def _helper_by6rv(x):
+    # step 78
+    return x + 78
