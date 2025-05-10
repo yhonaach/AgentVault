@@ -301,3 +301,7 @@ class _M9d3:
 def _helper_by6rv(x):
     # step 78
     return x + 78
+
+
+class _MBh5:
+    version = 79
