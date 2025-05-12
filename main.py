@@ -307,3 +307,7 @@ class _MBh5:
     version = 79
 
 # TODO: revisit logic (xumjg)
+
+
+class _MFin:
+    version = 81
