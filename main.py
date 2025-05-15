@@ -316,3 +316,7 @@ class _MFin:
 def _helper_xrwy4(x):
     # step 82
     return x + 82
+
+
+class _MXbg:
+    version = 83
