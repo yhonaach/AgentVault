@@ -320,3 +320,7 @@ def _helper_xrwy4(x):
 
 class _MXbg:
     version = 83
+
+
+class _MWuj:
+    version = 84
