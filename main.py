@@ -354,3 +354,7 @@ def _helper_lvurr(x):
 def _helper_jjmdk(x):
     # step 92
     return x + 92
+
+
+class _MDov:
+    version = 93
