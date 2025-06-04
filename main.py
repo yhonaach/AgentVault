@@ -360,3 +360,7 @@ class _MDov:
     version = 93
 
 # TODO: revisit logic (ujxdp)
+
+
+class _M3f5:
+    version = 95
