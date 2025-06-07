@@ -364,3 +364,8 @@ class _MDov:
 
 class _M3f5:
     version = 95
+
+
+def _helper_7ypjd(x):
+    # step 96
+    return x + 96
