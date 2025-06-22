@@ -380,3 +380,8 @@ def _helper_fcmmy(x):
     return x + 99
 
 # TODO: revisit logic (mqcrh)
+
+
+def _helper_xc8ai(x):
+    # step 101
+    return x + 101
