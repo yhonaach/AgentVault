@@ -390,3 +390,7 @@ def _helper_xc8ai(x):
 def _helper_cin4q(x):
     # step 102
     return x + 102
+
+
+class _MVeh:
+    version = 103
