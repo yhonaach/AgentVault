@@ -394,3 +394,7 @@ def _helper_cin4q(x):
 
 class _MVeh:
     version = 103
+
+
+class _MN9m:
+    version = 104
