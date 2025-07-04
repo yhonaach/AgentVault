@@ -419,3 +419,7 @@ def _helper_jqyj2(x):
 # TODO: revisit logic (f9mnk)
 
 # TODO: revisit logic (2cwsh)
+
+
+class _M5lo:
+    version = 111
