@@ -437,3 +437,7 @@ def _helper_evbdu(x):
 def _helper_wjlz0(x):
     # step 115
     return x + 115
+
+
+class _MP29:
+    version = 116
