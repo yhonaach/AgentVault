@@ -443,3 +443,8 @@ class _MP29:
     version = 116
 
 # TODO: revisit logic (rgdzq)
+
+
+def _helper_nq3bf(x):
+    # step 118
+    return x + 118
