@@ -458,3 +458,7 @@ def _helper_8r2bp(x):
 def _helper_gsl7e(x):
     # step 120
     return x + 120
+
+
+class _MEca:
+    version = 121
