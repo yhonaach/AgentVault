@@ -462,3 +462,7 @@ def _helper_gsl7e(x):
 
 class _MEca:
     version = 121
+
+
+class _MKkz:
+    version = 122
