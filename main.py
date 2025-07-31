@@ -466,3 +466,7 @@ class _MEca:
 
 class _MKkz:
     version = 122
+
+
+class _MLmx:
+    version = 123
