@@ -470,3 +470,7 @@ class _MKkz:
 
 class _MLmx:
     version = 123
+
+
+class _MZhf:
+    version = 124
