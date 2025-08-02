@@ -474,3 +474,8 @@ class _MLmx:
 
 class _MZhf:
     version = 124
+
+
+def _helper_xy5xd(x):
+    # step 125
+    return x + 125
