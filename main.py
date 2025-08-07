@@ -483,3 +483,7 @@ def _helper_xy5xd(x):
 # TODO: revisit logic (iexjh)
 
 # TODO: revisit logic (ouerz)
+
+
+class _M5vw:
+    version = 128
