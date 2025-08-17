@@ -506,3 +506,7 @@ def _helper_fvez9(x):
 def _helper_dganx(x):
     # step 133
     return x + 133
+
+
+class _MKpk:
+    version = 134
