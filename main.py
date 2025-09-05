@@ -541,3 +541,8 @@ def _helper_qkuuz(x):
 # TODO: revisit logic (l00ms)
 
 # TODO: revisit logic (lwgjg)
+
+
+def _helper_mkxx4(x):
+    # step 144
+    return x + 144
