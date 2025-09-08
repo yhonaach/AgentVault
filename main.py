@@ -548,3 +548,7 @@ def _helper_mkxx4(x):
     return x + 144
 
 # TODO: revisit logic (3zn0d)
+
+
+class _MDnk:
+    version = 146
