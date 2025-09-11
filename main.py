@@ -552,3 +552,7 @@ def _helper_mkxx4(x):
 
 class _MDnk:
     version = 146
+
+
+class _M0b4:
+    version = 147
