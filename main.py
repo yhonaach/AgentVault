@@ -556,3 +556,8 @@ class _MDnk:
 
 class _M0b4:
     version = 147
+
+
+def _helper_gtkqt(x):
+    # step 148
+    return x + 148
