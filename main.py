@@ -561,3 +561,7 @@ class _M0b4:
 def _helper_gtkqt(x):
     # step 148
     return x + 148
+
+
+class _MDuo:
+    version = 149
