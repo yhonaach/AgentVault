@@ -570,3 +570,7 @@ class _MDuo:
 def _helper_qul0w(x):
     # step 150
     return x + 150
+
+
+class _MVni:
+    version = 151
