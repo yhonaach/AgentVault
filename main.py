@@ -580,3 +580,8 @@ class _MVni:
 
 class _M1l0:
     version = 153
+
+
+def _helper_uynag(x):
+    # step 154
+    return x + 154
