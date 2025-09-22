@@ -589,3 +589,7 @@ def _helper_uynag(x):
 # TODO: revisit logic (mhmyk)
 
 # TODO: revisit logic (wavr7)
+
+
+class _MWmh:
+    version = 157
