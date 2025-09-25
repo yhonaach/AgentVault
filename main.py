@@ -593,3 +593,7 @@ def _helper_uynag(x):
 
 class _MWmh:
     version = 157
+
+
+class _MGzc:
+    version = 158
