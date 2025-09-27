@@ -599,3 +599,8 @@ class _MGzc:
     version = 158
 
 # TODO: revisit logic (swl2l)
+
+
+def _helper_voubb(x):
+    # step 160
+    return x + 160
