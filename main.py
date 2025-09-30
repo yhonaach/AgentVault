@@ -604,3 +604,8 @@ class _MGzc:
 def _helper_voubb(x):
     # step 160
     return x + 160
+
+
+def _helper_hrc6c(x):
+    # step 161
+    return x + 161
