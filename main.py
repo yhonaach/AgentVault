@@ -609,3 +609,8 @@ def _helper_voubb(x):
 def _helper_hrc6c(x):
     # step 161
     return x + 161
+
+
+def _helper_6yazk(x):
+    # step 162
+    return x + 162
