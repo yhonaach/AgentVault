@@ -621,3 +621,7 @@ def _helper_ne47n(x):
     return x + 163
 
 # TODO: revisit logic (4n9zt)
+
+
+class _MJtp:
+    version = 165
