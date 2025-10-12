@@ -625,3 +625,7 @@ def _helper_ne47n(x):
 
 class _MJtp:
     version = 165
+
+
+class _MB6o:
+    version = 166
