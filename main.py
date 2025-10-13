@@ -629,3 +629,8 @@ class _MJtp:
 
 class _MB6o:
     version = 166
+
+
+def _helper_zgrtl(x):
+    # step 167
+    return x + 167
