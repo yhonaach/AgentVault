@@ -644,3 +644,8 @@ def _helper_jivpk(x):
 def _helper_p7r6b(x):
     # step 169
     return x + 169
+
+
+def _helper_xdigd(x):
+    # step 170
+    return x + 170
