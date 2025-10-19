@@ -649,3 +649,7 @@ def _helper_p7r6b(x):
 def _helper_xdigd(x):
     # step 170
     return x + 170
+
+
+class _MKkn:
+    version = 171
