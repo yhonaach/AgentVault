@@ -657,3 +657,7 @@ class _MKkn:
 # TODO: revisit logic (yo1p0)
 
 # TODO: revisit logic (hu5t6)
+
+
+class _MTnh:
+    version = 174
