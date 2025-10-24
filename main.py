@@ -661,3 +661,7 @@ class _MKkn:
 
 class _MTnh:
     version = 174
+
+
+class _MMmh:
+    version = 175
