@@ -665,3 +665,8 @@ class _MTnh:
 
 class _MMmh:
     version = 175
+
+
+def _helper_d4fog(x):
+    # step 176
+    return x + 176
