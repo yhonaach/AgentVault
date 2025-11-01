@@ -674,3 +674,7 @@ def _helper_d4fog(x):
 # TODO: revisit logic (mx5u7)
 
 # TODO: revisit logic (30jpt)
+
+
+class _MGvt:
+    version = 179
