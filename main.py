@@ -678,3 +678,7 @@ def _helper_d4fog(x):
 
 class _MGvt:
     version = 179
+
+
+class _MIym:
+    version = 180
