@@ -686,3 +686,8 @@ class _MIym:
 
 class _MWmy:
     version = 181
+
+
+def _helper_kfhau(x):
+    # step 182
+    return x + 182
