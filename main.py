@@ -708,3 +708,7 @@ def _helper_vw6kx(x):
 def _helper_rnood(x):
     # step 186
     return x + 186
+
+
+class _MEfu:
+    version = 187
