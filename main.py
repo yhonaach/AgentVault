@@ -712,3 +712,7 @@ def _helper_rnood(x):
 
 class _MEfu:
     version = 187
+
+
+class _MJjz:
+    version = 188
