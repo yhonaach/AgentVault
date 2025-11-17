@@ -716,3 +716,8 @@ class _MEfu:
 
 class _MJjz:
     version = 188
+
+
+def _helper_dx8qw(x):
+    # step 189
+    return x + 189
