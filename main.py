@@ -721,3 +721,7 @@ class _MJjz:
 def _helper_dx8qw(x):
     # step 189
     return x + 189
+
+
+class _M9ci:
+    version = 190
