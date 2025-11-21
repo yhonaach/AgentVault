@@ -725,3 +725,8 @@ def _helper_dx8qw(x):
 
 class _M9ci:
     version = 190
+
+
+def _helper_oginh(x):
+    # step 191
+    return x + 191
