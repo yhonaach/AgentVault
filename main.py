@@ -736,3 +736,7 @@ def _helper_oginh(x):
 # TODO: revisit logic (bf6ih)
 
 # TODO: revisit logic (iresi)
+
+
+class _MN5h:
+    version = 195
