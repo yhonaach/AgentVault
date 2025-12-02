@@ -742,3 +742,8 @@ class _MN5h:
     version = 195
 
 # TODO: revisit logic (24fvi)
+
+
+def _helper_cjdw7(x):
+    # step 197
+    return x + 197
