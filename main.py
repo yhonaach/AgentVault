@@ -747,3 +747,7 @@ class _MN5h:
 def _helper_cjdw7(x):
     # step 197
     return x + 197
+
+
+class _MKnj:
+    version = 198
