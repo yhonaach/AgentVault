@@ -765,3 +765,7 @@ def _helper_jzyzn(x):
 def _helper_6rzly(x):
     # step 202
     return x + 202
+
+
+class _MLgn:
+    version = 203
