@@ -769,3 +769,7 @@ def _helper_6rzly(x):
 
 class _MLgn:
     version = 203
+
+
+class _MO1q:
+    version = 204
