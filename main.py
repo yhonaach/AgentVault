@@ -784,3 +784,7 @@ def _helper_ywdrf(x):
     return x + 207
 
 # TODO: revisit logic (anbq0)
+
+
+class _MVv1:
+    version = 209
