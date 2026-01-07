@@ -812,3 +812,7 @@ def _helper_ja807(x):
     return x + 215
 
 # TODO: revisit logic (xvznm)
+
+
+class _M0kf:
+    version = 217
