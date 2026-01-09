@@ -821,3 +821,7 @@ class _M0kf:
 def _helper_xik2g(x):
     # step 218
     return x + 218
+
+
+class _MA6b:
+    version = 219
