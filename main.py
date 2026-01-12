@@ -827,3 +827,7 @@ class _MA6b:
     version = 219
 
 # TODO: revisit logic (z82vn)
+
+
+class _MWix:
+    version = 221
