@@ -835,3 +835,8 @@ class _MWix:
 
 class _M4jp:
     version = 222
+
+
+def _helper_lw8kx(x):
+    # step 223
+    return x + 223
