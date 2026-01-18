@@ -844,3 +844,8 @@ def _helper_lw8kx(x):
 # TODO: revisit logic (ttyn5)
 
 # TODO: revisit logic (sv66j)
+
+
+def _helper_bnsdc(x):
+    # step 226
+    return x + 226
