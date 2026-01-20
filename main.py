@@ -849,3 +849,7 @@ def _helper_lw8kx(x):
 def _helper_bnsdc(x):
     # step 226
     return x + 226
+
+
+class _MIid:
+    version = 227
