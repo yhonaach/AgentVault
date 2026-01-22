@@ -853,3 +853,7 @@ def _helper_bnsdc(x):
 
 class _MIid:
     version = 227
+
+
+class _MWjn:
+    version = 228
