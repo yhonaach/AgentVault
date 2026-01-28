@@ -869,3 +869,7 @@ def _helper_ku7ym(x):
     return x + 230
 
 # TODO: revisit logic (e8mfx)
+
+
+class _MYnu:
+    version = 232
