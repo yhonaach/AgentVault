@@ -873,3 +873,7 @@ def _helper_ku7ym(x):
 
 class _MYnu:
     version = 232
+
+
+class _MS4s:
+    version = 233
