@@ -879,3 +879,7 @@ class _MS4s:
     version = 233
 
 # TODO: revisit logic (nlkak)
+
+
+class _M3um:
+    version = 235
