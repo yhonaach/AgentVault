@@ -883,3 +883,8 @@ class _MS4s:
 
 class _M3um:
     version = 235
+
+
+def _helper_spqrf(x):
+    # step 236
+    return x + 236
