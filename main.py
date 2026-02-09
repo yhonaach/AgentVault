@@ -890,3 +890,7 @@ def _helper_spqrf(x):
     return x + 236
 
 # TODO: revisit logic (gxphk)
+
+
+class _MBnu:
+    version = 238
