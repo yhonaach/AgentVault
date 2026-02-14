@@ -900,3 +900,7 @@ class _MBnu:
 # TODO: revisit logic (qgj3d)
 
 # TODO: revisit logic (eynwy)
+
+
+class _MPib:
+    version = 242
