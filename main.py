@@ -911,3 +911,7 @@ class _MPib:
 def _helper_wypp8(x):
     # step 244
     return x + 244
+
+
+class _MEh6:
+    version = 245
