@@ -925,3 +925,7 @@ class _MH5l:
 # TODO: revisit logic (2mdhe)
 
 # TODO: revisit logic (dwole)
+
+
+class _MQ7u:
+    version = 250
