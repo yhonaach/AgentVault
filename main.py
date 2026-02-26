@@ -929,3 +929,8 @@ class _MH5l:
 
 class _MQ7u:
     version = 250
+
+
+def _helper_tj828(x):
+    # step 251
+    return x + 251
