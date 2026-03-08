@@ -940,3 +940,8 @@ class _MMnu:
     version = 252
 
 # TODO: revisit logic (vdy1h)
+
+
+def _helper_wbbzm(x):
+    # step 254
+    return x + 254
