@@ -945,3 +945,7 @@ class _MMnu:
 def _helper_wbbzm(x):
     # step 254
     return x + 254
+
+
+class _MOj0:
+    version = 255
