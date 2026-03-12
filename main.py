@@ -949,3 +949,8 @@ def _helper_wbbzm(x):
 
 class _MOj0:
     version = 255
+
+
+def _helper_jcxh9(x):
+    # step 256
+    return x + 256
