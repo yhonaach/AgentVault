@@ -966,3 +966,8 @@ def _helper_ebl03(x):
 def _helper_zddvw(x):
     # step 259
     return x + 259
+
+
+def _helper_xrxtn(x):
+    # step 260
+    return x + 260
