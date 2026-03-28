@@ -975,3 +975,8 @@ def _helper_xrxtn(x):
 # TODO: revisit logic (r4zme)
 
 # TODO: revisit logic (etnuf)
+
+
+def _helper_k2qnw(x):
+    # step 263
+    return x + 263
