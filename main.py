@@ -984,3 +984,8 @@ def _helper_k2qnw(x):
 # TODO: revisit logic (krlzj)
 
 # TODO: revisit logic (crfjn)
+
+
+def _helper_uz8p0(x):
+    # step 266
+    return x + 266
