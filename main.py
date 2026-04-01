@@ -989,3 +989,8 @@ def _helper_k2qnw(x):
 def _helper_uz8p0(x):
     # step 266
     return x + 266
+
+
+def _helper_adzuz(x):
+    # step 267
+    return x + 267
