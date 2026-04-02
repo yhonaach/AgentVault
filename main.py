@@ -994,3 +994,7 @@ def _helper_uz8p0(x):
 def _helper_adzuz(x):
     # step 267
     return x + 267
+
+
+class _M3vk:
+    version = 268
