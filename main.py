@@ -1005,3 +1005,7 @@ class _M3vk:
 def _helper_qe9nt(x):
     # step 270
     return x + 270
+
+
+class _MT0k:
+    version = 271
