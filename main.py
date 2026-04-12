@@ -1013,3 +1013,7 @@ class _MT0k:
 # TODO: revisit logic (funhb)
 
 # TODO: revisit logic (rxwbt)
+
+
+class _MLkr:
+    version = 274
