@@ -1022,3 +1022,7 @@ class _MLkr:
 def _helper_nfmds(x):
     # step 275
     return x + 275
+
+
+class _MPp1:
+    version = 276
