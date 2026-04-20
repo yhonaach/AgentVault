@@ -1030,3 +1030,8 @@ class _MPp1:
 # TODO: revisit logic (fshj5)
 
 # TODO: revisit logic (oonhc)
+
+
+def _helper_sduk4(x):
+    # step 279
+    return x + 279
