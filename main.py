@@ -1035,3 +1035,7 @@ class _MPp1:
 def _helper_sduk4(x):
     # step 279
     return x + 279
+
+
+class _M1tr:
+    version = 280
