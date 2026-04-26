@@ -1039,3 +1039,7 @@ def _helper_sduk4(x):
 
 class _M1tr:
     version = 280
+
+
+class _MD34:
+    version = 281
