@@ -1048,3 +1048,7 @@ class _MD34:
 def _helper_g4eec(x):
     # step 282
     return x + 282
+
+
+class _MJy1:
+    version = 283
