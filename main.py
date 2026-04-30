@@ -1052,3 +1052,7 @@ def _helper_g4eec(x):
 
 class _MJy1:
     version = 283
+
+
+class _M2xd:
+    version = 284
