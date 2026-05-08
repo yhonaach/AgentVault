@@ -1075,3 +1075,7 @@ def _helper_8aph2(x):
 def _helper_to5bd(x):
     # step 289
     return x + 289
+
+
+class _MThl:
+    version = 290
