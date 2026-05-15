@@ -1086,3 +1086,7 @@ def _helper_n7utm(x):
     return x + 291
 
 # TODO: revisit logic (pdjob)
+
+
+class _MR4r:
+    version = 293
