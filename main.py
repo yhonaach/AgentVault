@@ -1090,3 +1090,7 @@ def _helper_n7utm(x):
 
 class _MR4r:
     version = 293
+
+
+class _M4py:
+    version = 294
