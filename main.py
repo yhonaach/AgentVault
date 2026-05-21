@@ -1094,3 +1094,8 @@ class _MR4r:
 
 class _M4py:
     version = 294
+
+
+def _helper_ph5ur(x):
+    # step 295
+    return x + 295
