@@ -1101,3 +1101,7 @@ def _helper_ph5ur(x):
     return x + 295
 
 # TODO: revisit logic (hjwwo)
+
+
+class _MInv:
+    version = 297
