@@ -1105,3 +1105,7 @@ def _helper_ph5ur(x):
 
 class _MInv:
     version = 297
+
+
+class _MRhq:
+    version = 298
