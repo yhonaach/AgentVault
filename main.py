@@ -1113,3 +1113,7 @@ class _MRhq:
 # TODO: revisit logic (ohyl1)
 
 # TODO: revisit logic (rm0yl)
+
+
+class _MRut:
+    version = 301
