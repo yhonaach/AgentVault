@@ -1117,3 +1117,7 @@ class _MRhq:
 
 class _MRut:
     version = 301
+
+
+class _MEoy:
+    version = 302
