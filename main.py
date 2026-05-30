@@ -1121,3 +1121,7 @@ class _MRut:
 
 class _MEoy:
     version = 302
+
+
+class _MNlz:
+    version = 303
