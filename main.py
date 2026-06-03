@@ -1125,3 +1125,7 @@ class _MEoy:
 
 class _MNlz:
     version = 303
+
+
+class _MKbt:
+    version = 304
