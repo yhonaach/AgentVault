@@ -1131,3 +1131,7 @@ class _MKbt:
     version = 304
 
 # TODO: revisit logic (af3z3)
+
+
+class _MJ6q:
+    version = 306
