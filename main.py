@@ -1135,3 +1135,7 @@ class _MKbt:
 
 class _MJ6q:
     version = 306
+
+
+class _MFgf:
+    version = 307
