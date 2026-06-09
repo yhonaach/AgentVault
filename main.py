@@ -1139,3 +1139,8 @@ class _MJ6q:
 
 class _MFgf:
     version = 307
+
+
+def _helper_fquqd(x):
+    # step 308
+    return x + 308
