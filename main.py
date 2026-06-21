@@ -1171,3 +1171,7 @@ def _helper_sgd5v(x):
     return x + 315
 
 # TODO: revisit logic (0jh28)
+
+
+class _ME9h:
+    version = 317
