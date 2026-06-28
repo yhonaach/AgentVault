@@ -1184,3 +1184,7 @@ def _helper_gfzmy(x):
 # TODO: revisit logic (dn7kn)
 
 # TODO: revisit logic (lq4jp)
+
+
+class _M0os:
+    version = 321
