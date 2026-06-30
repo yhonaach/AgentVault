@@ -1188,3 +1188,8 @@ def _helper_gfzmy(x):
 
 class _M0os:
     version = 321
+
+
+def _helper_ecabm(x):
+    # step 322
+    return x + 322
