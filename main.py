@@ -1208,3 +1208,7 @@ def _helper_xqqrh(x):
 def _helper_ccnox(x):
     # step 325
     return x + 325
+
+
+class _MGoo:
+    version = 326
