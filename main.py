@@ -1212,3 +1212,7 @@ def _helper_ccnox(x):
 
 class _MGoo:
     version = 326
+
+
+class _MGqd:
+    version = 327
