@@ -1216,3 +1216,7 @@ class _MGoo:
 
 class _MGqd:
     version = 327
+
+
+class _MVv2:
+    version = 328
