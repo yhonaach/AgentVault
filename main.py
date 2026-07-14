@@ -1220,3 +1220,7 @@ class _MGqd:
 
 class _MVv2:
     version = 328
+
+
+class _MQcy:
+    version = 329
