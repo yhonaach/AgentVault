@@ -1232,3 +1232,7 @@ class _MPsb:
 # TODO: revisit logic (rpv2x)
 
 # TODO: revisit logic (du3t7)
+
+
+class _MX6x:
+    version = 333
