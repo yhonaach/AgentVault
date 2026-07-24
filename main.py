@@ -1238,3 +1238,7 @@ class _MX6x:
     version = 333
 
 # TODO: revisit logic (ptk0f)
+
+
+class _MH2n:
+    version = 335
