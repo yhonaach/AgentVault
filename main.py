@@ -1242,3 +1242,8 @@ class _MX6x:
 
 class _MH2n:
     version = 335
+
+
+def _helper_tohgr(x):
+    # step 336
+    return x + 336
