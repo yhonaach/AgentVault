@@ -1249,3 +1249,8 @@ def _helper_tohgr(x):
     return x + 336
 
 # TODO: revisit logic (e7u94)
+
+
+def _helper_y7wsi(x):
+    # step 338
+    return x + 338
