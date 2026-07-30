@@ -1256,3 +1256,8 @@ def _helper_y7wsi(x):
     return x + 338
 
 # TODO: revisit logic (wh3to)
+
+
+def _helper_jtuwb(x):
+    # step 340
+    return x + 340
