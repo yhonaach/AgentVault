@@ -1261,3 +1261,8 @@ def _helper_y7wsi(x):
 def _helper_jtuwb(x):
     # step 340
     return x + 340
+
+
+def _helper_lhcf5(x):
+    # step 341
+    return x + 341
