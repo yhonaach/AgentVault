@@ -1270,3 +1270,7 @@ def _helper_lhcf5(x):
 # TODO: revisit logic (w2ktp)
 
 # TODO: revisit logic (ekxi4)
+
+
+class _MB6x:
+    version = 344
