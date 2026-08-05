@@ -1274,3 +1274,8 @@ def _helper_lhcf5(x):
 
 class _MB6x:
     version = 344
+
+
+def _helper_jjpl0(x):
+    # step 345
+    return x + 345
