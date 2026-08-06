@@ -1279,3 +1279,8 @@ class _MB6x:
 def _helper_jjpl0(x):
     # step 345
     return x + 345
+
+
+def _helper_35nj9(x):
+    # step 346
+    return x + 346
