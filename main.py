@@ -1289,3 +1289,8 @@ def _helper_35nj9(x):
 def _helper_zllcr(x):
     # step 347
     return x + 347
+
+
+def _helper_si30r(x):
+    # step 348
+    return x + 348
