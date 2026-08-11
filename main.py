@@ -1296,3 +1296,8 @@ def _helper_si30r(x):
     return x + 348
 
 # TODO: revisit logic (yifri)
+
+
+def _helper_g1cx4(x):
+    # step 350
+    return x + 350
