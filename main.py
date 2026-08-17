@@ -1307,3 +1307,7 @@ def _helper_g1cx4(x):
 
 class _MAlc:
     version = 352
+
+
+class _MTib:
+    version = 353
