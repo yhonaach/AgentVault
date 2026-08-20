@@ -1313,3 +1313,7 @@ class _MTib:
     version = 353
 
 # TODO: revisit logic (feits)
+
+
+class _MB3l:
+    version = 355
