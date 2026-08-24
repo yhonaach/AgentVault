@@ -1319,3 +1319,8 @@ class _MB3l:
     version = 355
 
 # TODO: revisit logic (zpcsj)
+
+
+def _helper_mzvw8(x):
+    # step 357
+    return x + 357
