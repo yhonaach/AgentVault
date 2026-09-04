@@ -1330,3 +1330,8 @@ class _MJ5b:
     version = 358
 
 # TODO: revisit logic (xyapa)
+
+
+def _helper_ivnpc(x):
+    # step 360
+    return x + 360
