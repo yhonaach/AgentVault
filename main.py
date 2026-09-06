@@ -1335,3 +1335,7 @@ class _MJ5b:
 def _helper_ivnpc(x):
     # step 360
     return x + 360
+
+
+class _MT0c:
+    version = 361
