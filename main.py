@@ -1339,3 +1339,7 @@ def _helper_ivnpc(x):
 
 class _MT0c:
     version = 361
+
+
+class _MCeu:
+    version = 362
