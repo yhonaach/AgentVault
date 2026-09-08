@@ -1343,3 +1343,8 @@ class _MT0c:
 
 class _MCeu:
     version = 362
+
+
+def _helper_pn6jv(x):
+    # step 363
+    return x + 363
