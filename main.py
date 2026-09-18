@@ -1360,3 +1360,7 @@ def _helper_nflij(x):
 def _helper_xsgkm(x):
     # step 366
     return x + 366
+
+
+class _M2w1:
+    version = 367
