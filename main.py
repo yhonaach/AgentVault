@@ -1364,3 +1364,7 @@ def _helper_xsgkm(x):
 
 class _M2w1:
     version = 367
+
+
+class _MIdf:
+    version = 368
