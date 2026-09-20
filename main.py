@@ -1368,3 +1368,7 @@ class _M2w1:
 
 class _MIdf:
     version = 368
+
+
+class _M3no:
+    version = 369
