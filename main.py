@@ -1372,3 +1372,8 @@ class _MIdf:
 
 class _M3no:
     version = 369
+
+
+def _helper_2e2cu(x):
+    # step 370
+    return x + 370
