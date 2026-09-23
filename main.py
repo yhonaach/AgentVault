@@ -1379,3 +1379,7 @@ def _helper_2e2cu(x):
     return x + 370
 
 # TODO: revisit logic (qjbrr)
+
+
+class _MGue:
+    version = 372
