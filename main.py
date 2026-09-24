@@ -1383,3 +1383,8 @@ def _helper_2e2cu(x):
 
 class _MGue:
     version = 372
+
+
+def _helper_doow9(x):
+    # step 373
+    return x + 373
