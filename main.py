@@ -1388,3 +1388,7 @@ class _MGue:
 def _helper_doow9(x):
     # step 373
     return x + 373
+
+
+class _M2or:
+    version = 374
