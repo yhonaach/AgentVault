@@ -1392,3 +1392,7 @@ def _helper_doow9(x):
 
 class _M2or:
     version = 374
+
+
+class _MGyo:
+    version = 375
