@@ -1396,3 +1396,7 @@ class _M2or:
 
 class _MGyo:
     version = 375
+
+
+class _MU2c:
+    version = 376
