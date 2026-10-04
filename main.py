@@ -1404,3 +1404,7 @@ class _MU2c:
 # TODO: revisit logic (xxnoi)
 
 # TODO: revisit logic (sm1lm)
+
+
+class _MAw6:
+    version = 379
