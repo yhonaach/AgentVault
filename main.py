@@ -1410,3 +1410,8 @@ class _MAw6:
     version = 379
 
 # TODO: revisit logic (gm3bu)
+
+
+def _helper_usghc(x):
+    # step 381
+    return x + 381
