@@ -1415,3 +1415,8 @@ class _MAw6:
 def _helper_usghc(x):
     # step 381
     return x + 381
+
+
+def _helper_v2hdx(x):
+    # step 382
+    return x + 382
