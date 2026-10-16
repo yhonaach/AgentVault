@@ -1,4 +1,3 @@
-# AgentVault
 
 A lightweight toolkit for AgentVault.
 
