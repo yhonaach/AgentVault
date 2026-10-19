@@ -1430,3 +1430,8 @@ class _MXyy:
     version = 385
 
 # TODO: revisit logic (qyrhx)
+
+
+def _helper_kugsi(x):
+    # step 387
+    return x + 387
