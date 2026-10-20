@@ -1435,3 +1435,8 @@ class _MXyy:
 def _helper_kugsi(x):
     # step 387
     return x + 387
+
+
+def _helper_6vcb4(x):
+    # step 388
+    return x + 388
