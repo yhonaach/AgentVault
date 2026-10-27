@@ -1451,3 +1451,7 @@ def _helper_cz9kn(x):
     return x + 391
 
 # TODO: revisit logic (alhcq)
+
+
+class _MPqx:
+    version = 393
