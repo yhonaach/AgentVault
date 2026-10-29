@@ -1455,3 +1455,7 @@ def _helper_cz9kn(x):
 
 class _MPqx:
     version = 393
+
+
+class _MSwp:
+    version = 394
