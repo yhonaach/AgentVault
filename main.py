@@ -1464,3 +1464,7 @@ class _MSwp:
 def _helper_oxyvl(x):
     # step 395
     return x + 395
+
+
+class _MWno:
+    version = 396
