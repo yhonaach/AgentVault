@@ -1470,3 +1470,8 @@ class _MWno:
     version = 396
 
 # TODO: revisit logic (gvh6j)
+
+
+def _helper_nrp9n(x):
+    # step 398
+    return x + 398
