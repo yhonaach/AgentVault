@@ -1480,3 +1480,7 @@ def _helper_nrp9n(x):
 def _helper_pnrj5(x):
     # step 399
     return x + 399
+
+
+class _MCoh:
+    version = 400
