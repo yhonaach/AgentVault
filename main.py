@@ -1486,3 +1486,7 @@ class _MCoh:
     version = 400
 
 # TODO: revisit logic (rpkmj)
+
+
+class _MR81:
+    version = 402
