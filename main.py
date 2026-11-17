@@ -1490,3 +1490,8 @@ class _MCoh:
 
 class _MR81:
     version = 402
+
+
+def _helper_4aoby(x):
+    # step 403
+    return x + 403
