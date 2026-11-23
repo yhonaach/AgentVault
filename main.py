@@ -1504,3 +1504,7 @@ def _helper_nqlur(x):
 # TODO: revisit logic (nfzwc)
 
 # TODO: revisit logic (blt9a)
+
+
+class _MXu6:
+    version = 407
