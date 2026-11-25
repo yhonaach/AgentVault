@@ -1513,3 +1513,7 @@ class _MXu6:
 def _helper_wdjvl(x):
     # step 408
     return x + 408
+
+
+class _MUtd:
+    version = 409
